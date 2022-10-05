@@ -1,2 +1,3 @@
 # my-repo
-NA
+My First Repo on GitHub.
+I Love ☕ 🍕
